@@ -81,7 +81,7 @@ export function briefFooter({
           iconSize={28}
           spacing={8}
           icons={[
-            { name: 'twitter', url: 'https://twitter.com/covehq' },
+            { name: 'x', url: 'https://x.com/covehq' },
             { name: 'linkedin', url: 'https://www.linkedin.com/company/covehq' },
             { name: 'facebook', url: 'https://www.facebook.com/covehq' },
           ]}
