@@ -1,0 +1,213 @@
+{
+  "counters": {
+    "u_row": 2,
+    "u_column": 2,
+    "u_content_html": 1,
+    "u_content_text": 1
+  },
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n              <div style=\"font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;padding:32px;border-bottom:1px solid #d3cec6;\">\n                <table role=\"presentation\" width=\"100%\">\n                  <tr>\n                    <td style=\"font-size:24px;font-weight:700;color:#111111;\">cove</td>\n                    <td align=\"right\">\n                      <div style=\"font-size:16px;font-weight:700;margin-bottom:8px;\">INVOICE</div>\n                      <div style=\"font-size:13px;line-height:1.7;color:#626260;\">\n                        Invoice No. <span style=\"color:#111111;font-family:monospace;\">#INV-2023-089</span><br/>\n                        Issue Date <span style=\"color:#111111;font-family:monospace;\">Oct 12, 2023</span><br/>\n                        Due Date <span style=\"color:#111111;font-family:monospace;\">Nov 11, 2023</span>\n                      </div>\n                    </td>\n                  </tr>\n                </table>\n              </div>\n              <div style=\"font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;padding:28px 32px;border-bottom:1px solid #d3cec6;\">\n                <table role=\"presentation\" width=\"100%\">\n                  <tr>\n                    <td width=\"50%\" valign=\"top\" style=\"padding-right:24px;\">\n                      <div style=\"font-size:11px;font-weight:700;letter-spacing:1px;color:#626260;\">BILLED TO</div>\n                      <div style=\"font-size:15px;font-weight:700;margin-top:8px;\">Northwind Commerce</div>\n                      <div style=\"font-size:13px;line-height:1.55;margin-top:4px;\">1890 Market Street<br/>Suite 400<br/>San Francisco, CA 94102<br/>billing@northwind.com</div>\n                    </td>\n                    <td width=\"50%\" valign=\"top\">\n                      <div style=\"font-size:11px;font-weight:700;letter-spacing:1px;color:#626260;\">FROM</div>\n                      <div style=\"font-size:15px;font-weight:700;margin-top:8px;\">Cove Technologies Inc.</div>\n                      <div style=\"font-size:13px;line-height:1.55;margin-top:4px;\">1200 Tech Ave<br/>Building 2<br/>Seattle, WA 98101<br/>accounts@cove.com</div>\n                    </td>\n                  </tr>\n                </table>\n              </div>\n              <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;\">\n                <tr style=\"background:#111111;color:#fff;\">\n                  <td style=\"padding:12px 32px;font-size:11px;font-weight:700;letter-spacing:0.5px;\">DESCRIPTION</td>\n                  <td align=\"right\" style=\"padding:12px 8px;font-size:11px;font-weight:700;\">QTY</td>\n                  <td align=\"right\" style=\"padding:12px 8px;font-size:11px;font-weight:700;\">RATE</td>\n                  <td align=\"right\" style=\"padding:12px 32px 12px 8px;font-size:11px;font-weight:700;\">AMOUNT</td>\n                </tr>\n                <tr style=\"border-bottom:1px solid #ebe7e1;\">\n                  <td style=\"padding:16px 32px;\">\n                    <div style=\"font-weight:500;\">Enterprise Workspace License</div>\n                    <div style=\"font-size:12px;color:#626260;margin-top:2px;\">Annual subscription (Oct 2023 - Oct 2024)</div>\n                  </td>\n                  <td align=\"right\" style=\"padding:16px 8px;font-family:monospace;\">1</td>\n                  <td align=\"right\" style=\"padding:16px 8px;font-family:monospace;color:#626260;\">$4,500.00</td>\n                  <td align=\"right\" style=\"padding:16px 32px 16px 8px;font-family:monospace;font-weight:500;\">$4,500.00</td>\n                </tr>\n                <tr style=\"background:#f5f1ec;\">\n                  <td style=\"padding:16px 32px;\">\n                    <div style=\"font-weight:500;\">Aria Add-on: Custom Voice Model</div>\n                    <div style=\"font-size:12px;color:#626260;margin-top:2px;\">One-time setup fee</div>\n                  </td>\n                  <td align=\"right\" style=\"padding:16px 8px;font-family:monospace;\">1</td>\n                  <td align=\"right\" style=\"padding:16px 8px;font-family:monospace;color:#626260;\">$1,200.00</td>\n                  <td align=\"right\" style=\"padding:16px 32px 16px 8px;font-family:monospace;font-weight:500;\">$1,200.00</td>\n                </tr>\n                <tr>\n                  <td style=\"padding:16px 32px;\">\n                    <div style=\"font-weight:500;\">Additional Support Agents</div>\n                    <div style=\"font-size:12px;color:#626260;margin-top:2px;\">Prorated for 5 additional seats</div>\n                  </td>\n                  <td align=\"right\" style=\"padding:16px 8px;font-family:monospace;\">5</td>\n                  <td align=\"right\" style=\"padding:16px 8px;font-family:monospace;color:#626260;\">$50.00</td>\n                  <td align=\"right\" style=\"padding:16px 32px 16px 8px;font-family:monospace;font-weight:500;\">$250.00</td>\n                </tr>\n              </table>\n              <div style=\"padding:24px 32px;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n                <div style=\"max-width:280px;margin-left:auto;font-size:13px;\">\n                  <div style=\"display:flex;justify-content:space-between;margin-bottom:8px;\"><span style=\"color:#626260;\">Subtotal</span><span style=\"font-family:monospace;\">$5,950.00</span></div>\n                  <div style=\"display:flex;justify-content:space-between;margin-bottom:12px;padding-bottom:12px;border-bottom:1px solid #d3cec6;\"><span style=\"color:#626260;\">Tax (8.5%)</span><span style=\"font-family:monospace;\">$505.75</span></div>\n                  <div style=\"background:#111111;color:#fff;border-radius:12px;padding:16px;display:flex;justify-content:space-between;align-items:center;\">\n                    <span style=\"font-weight:700;\">Total Due</span>\n                    <span style=\"font-family:monospace;font-weight:700;font-size:17px;\">$6,455.75</span>\n                  </div>\n                </div>\n              </div>\n              <div style=\"background:#f5f1ec;padding:24px 32px;border-top:1px solid #d3cec6;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n                <table role=\"presentation\" width=\"100%\">\n                  <tr>\n                    <td>\n                      <div style=\"font-size:14px;font-weight:500;\">Payment Method</div>\n                      <div style=\"font-size:12px;color:#626260;font-family:monospace;margin-top:4px;\">Visa ending in •••• 4242</div>\n                    </td>\n                    <td align=\"right\">\n                      <a href=\"https://app.cove.example/billing/pay\" style=\"display:inline-block;background:#111111;color:#fff;text-decoration:none;padding:10px 20px;border-radius:12px;font-size:14px;font-weight:500;\">Pay invoice</a>\n                    </td>\n                  </tr>\n                </table>\n              </div>\n            ",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "0px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "12px",
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "32px 32px 8px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "center",
+                  "lineHeight": "160%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#7b7b78",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Cove Technologies Inc. · 1200 Tech Ave, Seattle, WA 98101<br/>If you have any questions about this invoice, please contact <a href='mailto:billing@cove.com' style='color:#7b7b78;'>billing@cove.com</a>",
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "16px 40px 40px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_2",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      }
+    ],
+    "values": {
+      "_styleGuide": null,
+      "borderRadius": "10px",
+      "contentAlign": "center",
+      "contentVerticalAlign": "middle",
+      "contentWidth": "720px",
+      "fontFamily": {
+        "label": "Hanken Grotesk",
+        "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+      },
+      "textColor": "#111111",
+      "language": {},
+      "backgroundColor": "#f5f1ec",
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": "no-repeat",
+        "size": "custom",
+        "position": "center"
+      },
+      "accessibilityTitle": "",
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 24
+}

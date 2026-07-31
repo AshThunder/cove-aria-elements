@@ -1,0 +1,39 @@
+{
+  "name": "fin-brief",
+  "version": "1.0.0",
+  "description": "Cove × Aria — original email and document templates built with Unlayer Elements for the Build with Elements Challenge.",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsx src/render.tsx",
+    "build:brief": "tsx src/render.tsx brief",
+    "build:cove": "tsx src/render.tsx cove",
+    "build:invite": "tsx src/render.tsx invite",
+    "build:invoice": "tsx src/render.tsx invoice",
+    "preview": "tsx src/render.tsx && echo Open output/",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "unlayer",
+    "elements",
+    "BuiltWithElements",
+    "email",
+    "react",
+    "cove",
+    "aria"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@unlayer/react-elements": "^0.1.20",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2"
+  }
+}

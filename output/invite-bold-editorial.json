@@ -1,0 +1,115 @@
+{
+  "counters": {
+    "u_row": 1,
+    "u_column": 1,
+    "u_content_html": 1
+  },
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n<table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"100%\" style=\"border-collapse:collapse;\">\n  <tr>\n    <td style=\"padding:0 16px 16px 0;\">\n      <table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"100%\" bgcolor=\"#111111\" style=\"border-collapse:collapse;background:#111111;\">\n        <tr>\n          <td style=\"padding:0 16px 16px 0;\">\n            <table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"100%\" style=\"border-collapse:collapse;background:#ffffff;border:14px solid #111111;\">\n              <tr>\n                <td width=\"88\" valign=\"middle\" bgcolor=\"#111111\" style=\"width:88px;background-color:#111111;padding:24px 0;text-align:center;\">\n                  <img src=\"assets/aria-preview-rail.png\" width=\"88\" alt=\"ARIA PREVIEW\" style=\"display:block;margin:0 auto;width:88px;height:auto;border:0;outline:none;\" />\n                </td>\n                <td valign=\"top\" bgcolor=\"#ffffff\" style=\"background-color:#ffffff;background-image:radial-gradient(ellipse 280px 220px at 100% 0%, rgba(255,86,0,0.12), transparent 70%);padding:36px 36px 32px;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n                  <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"margin-bottom:40px;\">\n                    <tr>\n                      <td style=\"font-size:28px;font-weight:700;color:#111111;letter-spacing:-0.5px;line-height:1;\">cove</td>\n                      <td align=\"right\" style=\"text-align:right;\">\n                        <img src=\"assets/verified-seal.png\" width=\"30\" height=\"30\" alt=\"Verified\" style=\"display:inline-block;border:0;width:30px;height:30px;\" />\n                      </td>\n                    </tr>\n                  </table>\n\n                  <div style=\"font-size:13px;font-weight:500;color:#626260;letter-spacing:0.5px;text-transform:uppercase;line-height:1.3;margin:0 0 12px;\">Exclusive Access</div>\n                  <div style=\"font-size:44px;font-weight:500;color:#111111;letter-spacing:-1.4px;line-height:1.05;margin:0 0 18px;\">\n                    Join the<br/>Inner Circle.\n                  </div>\n                  <div style=\"font-size:17px;font-weight:400;color:#7b7b78;line-height:1.5;max-width:400px;margin:0;\">\n                    You are invited to experience the next evolution of customer intelligence. Get hands-on with Aria before the public release and shape the future of product-led growth.\n                  </div>\n\n                  <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"margin-top:48px;border-top:1px solid #d3cec6;\">\n                    <tr><td colspan=\"2\" style=\"height:22px;font-size:0;line-height:0;\">&nbsp;</td></tr>\n                    <tr>\n                      <td valign=\"bottom\" style=\"padding-right:12px;\">\n                        <table role=\"presentation\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n                          <tr>\n                            <td valign=\"top\" style=\"padding-right:28px;\">\n                              <div style=\"font-size:12px;font-weight:500;color:#626260;letter-spacing:0.5px;text-transform:uppercase;margin-bottom:4px;\">Date</div>\n                              <div style=\"font-size:15px;font-weight:700;color:#111111;\">October 24, 2024</div>\n                            </td>\n                            <td valign=\"top\">\n                              <div style=\"font-size:12px;font-weight:500;color:#626260;letter-spacing:0.5px;text-transform:uppercase;margin-bottom:4px;\">Format</div>\n                              <div style=\"font-size:15px;font-weight:700;color:#111111;\">Virtual Briefing</div>\n                            </td>\n                          </tr>\n                        </table>\n                      </td>\n                      <td valign=\"bottom\" align=\"right\" style=\"text-align:right;white-space:nowrap;\">\n                        <a href=\"https://app.cove.example/rsvp/aria-preview\" target=\"_blank\" style=\"display:inline-block;background:#111111;color:#ffffff;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:500;text-decoration:none;padding:12px 26px;border-radius:9999px;line-height:1.2;\">\n                          RSVP Now&nbsp;→\n                        </a>\n                      </td>\n                    </tr>\n                  </table>\n                </td>\n              </tr>\n            </table>\n          </td>\n        </tr>\n      </table>\n    </td>\n  </tr>\n</table>\n",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "32px 16px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      }
+    ],
+    "values": {
+      "_styleGuide": null,
+      "borderRadius": "10px",
+      "contentAlign": "center",
+      "contentVerticalAlign": "middle",
+      "contentWidth": "680px",
+      "fontFamily": {
+        "label": "Hanken Grotesk",
+        "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+      },
+      "textColor": "#111111",
+      "language": {},
+      "backgroundColor": "#f5f1ec",
+      "preheaderText": "Join the Inner Circle — exclusive Aria Preview access.",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": "no-repeat",
+        "size": "custom",
+        "position": "center"
+      },
+      "accessibilityTitle": "",
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 24
+}

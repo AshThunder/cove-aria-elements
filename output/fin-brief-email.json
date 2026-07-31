@@ -1,0 +1,1669 @@
+{
+  "counters": {
+    "u_row": 10,
+    "u_column": 12,
+    "u_content_text": 20,
+    "u_content_heading": 7,
+    "u_content_html": 1,
+    "u_content_divider": 2,
+    "u_content_button": 1,
+    "u_content_social": 1
+  },
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "13px",
+                  "textAlign": "left",
+                  "lineHeight": "130%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "cove",
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "16px 0px 0px",
+                  "fontSize": "14px",
+                  "textAlign": "left",
+                  "lineHeight": "130%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontWeight": 500,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Aria Brief · Jul 21 – Jul 27, 2026",
+                  "_meta": {
+                    "htmlID": "u_content_text_2",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "8px 0px 0px",
+                  "headingType": "h1",
+                  "fontSize": "32px",
+                  "textAlign": "left",
+                  "lineHeight": "115%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "text": "Good morning, Maya.",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "12px 0px 0px",
+                  "fontSize": "16px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontWeight": 400,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Northwind Commerce — here’s how Aria handled support this week, without the spreadsheet archaeology.",
+                  "_meta": {
+                    "htmlID": "u_content_text_3",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "32px 40px 8px 40px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "14px",
+                  "textAlign": "left",
+                  "lineHeight": "130%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "This week at a glance",
+                  "_meta": {
+                    "htmlID": "u_content_text_4",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "24px 40px 8px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_2",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#7b7b78",
+                  "fontWeight": 500,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Resolved by Aria",
+                  "_meta": {
+                    "htmlID": "u_content_text_5",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "6px 0px 0px",
+                  "headingType": "h2",
+                  "fontSize": "36px",
+                  "textAlign": "left",
+                  "lineHeight": "110%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "text": "1,842",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_2",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "6px 0px 0px",
+                  "fontSize": "13px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "2,710 total conversations",
+                  "_meta": {
+                    "htmlID": "u_content_text_6",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "20px 16px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "12px",
+              "_meta": {
+                "htmlID": "u_column_3",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#7b7b78",
+                  "fontWeight": 500,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Resolution rate",
+                  "_meta": {
+                    "htmlID": "u_content_text_7",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "6px 0px 0px",
+                  "headingType": "h2",
+                  "fontSize": "36px",
+                  "textAlign": "left",
+                  "lineHeight": "110%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "text": "68%",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_3",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "6px 0px 0px",
+                  "fontSize": "13px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Fully closed without a handoff",
+                  "_meta": {
+                    "htmlID": "u_content_text_8",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "20px 16px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "12px",
+              "_meta": {
+                "htmlID": "u_column_4",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "8px 32px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_3",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#7b7b78",
+                  "fontWeight": 500,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "CSAT after Aria",
+                  "_meta": {
+                    "htmlID": "u_content_text_9",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "6px 0px 0px",
+                  "headingType": "h2",
+                  "fontSize": "36px",
+                  "textAlign": "left",
+                  "lineHeight": "110%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "text": "4.7",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_4",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "6px 0px 0px",
+                  "fontSize": "13px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Out of 5.0",
+                  "_meta": {
+                    "htmlID": "u_content_text_10",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "20px 16px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "12px",
+              "_meta": {
+                "htmlID": "u_column_5",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#7b7b78",
+                  "fontWeight": 500,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Avg. handle time",
+                  "_meta": {
+                    "htmlID": "u_content_text_11",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "6px 0px 0px",
+                  "headingType": "h2",
+                  "fontSize": "36px",
+                  "textAlign": "left",
+                  "lineHeight": "110%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "text": "42s",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_5",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "6px 0px 0px",
+                  "fontSize": "13px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Time to first resolution",
+                  "_meta": {
+                    "htmlID": "u_content_text_12",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "20px 16px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "12px",
+              "_meta": {
+                "htmlID": "u_column_6",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "8px 32px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_4",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "10px",
+                  "headingType": "h2",
+                  "fontSize": "20px",
+                  "textAlign": "left",
+                  "lineHeight": "125%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "text": "Top intents Aria handled",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_6",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "8px 0px 16px",
+                  "fontSize": "14px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Where customers needed help — and how volume moved week over week.",
+                  "_meta": {
+                    "htmlID": "u_content_text_13",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n    <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;table-layout:fixed;width:100%;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n      <colgroup><col style=\"width:50%;\" /><col style=\"width:25%;\" /><col style=\"width:25%;\" /></colgroup>\n      <thead><tr><td style=\"width:50%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Intent</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Volume</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Δ WoW</td></tr></thead>\n      <tbody><tr><td style=\"width:50%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Order status</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">612</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">+8%</td></tr><tr><td style=\"width:50%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Refund eligibility</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">398</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">+3%</td></tr><tr><td style=\"width:50%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Shipping delays</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">274</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">−5%</td></tr><tr><td style=\"width:50%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Account access</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">191</td><td style=\"width:25%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">+12%</td></tr></tbody>\n    </table>\n  ",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "24px",
+              "border": {},
+              "borderRadius": "16px",
+              "_meta": {
+                "htmlID": "u_column_7",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "28px 40px 8px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_5",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "divider",
+                "values": {
+                  "containerPadding": "10px",
+                  "width": "100%",
+                  "border": {
+                    "borderTopWidth": "1px",
+                    "borderTopStyle": "solid",
+                    "borderTopColor": "#ebe7e1"
+                  },
+                  "textAlign": "center",
+                  "_meta": {
+                    "htmlID": "u_content_divider_1",
+                    "htmlClassNames": "u_content_divider"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_8",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "20px 40px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_6",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "18px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#ffffff",
+                  "fontWeight": 400,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "“Aria closed the refund loop before our agents even saw the queue — customers felt helped, not handed off.”",
+                  "_meta": {
+                    "htmlID": "u_content_text_14",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "16px 0px 0px",
+                  "fontSize": "13px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#ffffff",
+                  "fontWeight": 500,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Jordan Lee",
+                  "_meta": {
+                    "htmlID": "u_content_text_15",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "2px 0px 0px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#9c9fa5",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Head of Support, Northwind",
+                  "_meta": {
+                    "htmlID": "u_content_text_16",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_9",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#000000",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "36px 40px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_7",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "10px",
+                  "headingType": "h2",
+                  "fontSize": "24px",
+                  "textAlign": "left",
+                  "lineHeight": "120%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "text": "Dig into the inbox",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_7",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px 0px 20px",
+                  "fontSize": "15px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Review escalations, tune Aria’s answers, and share this brief with your team.",
+                  "_meta": {
+                    "htmlID": "u_content_text_17",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "button",
+                "values": {
+                  "containerPadding": "10px",
+                  "href": {
+                    "name": "web",
+                    "values": {
+                      "href": "https://app.cove.example/inbox",
+                      "target": "_blank"
+                    }
+                  },
+                  "buttonColors": {
+                    "color": "#ffffff",
+                    "backgroundColor": "#ff5600",
+                    "hoverColor": "#FFFFFF",
+                    "hoverBackgroundColor": "#0879A1"
+                  },
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "fontSize": "15px",
+                  "lineHeight": "120%",
+                  "textAlign": "left",
+                  "padding": "12px 20px",
+                  "border": {},
+                  "borderRadius": "8px",
+                  "text": "Open Aria inbox",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "fontWeight": 500,
+                  "_meta": {
+                    "htmlID": "u_content_button_1",
+                    "htmlClassNames": "u_content_button"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "14px 0px 0px",
+                  "fontSize": "13px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#7b7b78",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Prefer the printable pack? Export the weekly resolution report from the same Elements tree.",
+                  "_meta": {
+                    "htmlID": "u_content_text_18",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "32px 28px",
+              "border": {},
+              "borderRadius": "12px",
+              "_meta": {
+                "htmlID": "u_column_10",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "36px 40px 8px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_8",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "divider",
+                "values": {
+                  "containerPadding": "10px",
+                  "width": "100%",
+                  "border": {
+                    "borderTopWidth": "1px",
+                    "borderTopStyle": "solid",
+                    "borderTopColor": "#d3cec6"
+                  },
+                  "textAlign": "center",
+                  "_meta": {
+                    "htmlID": "u_content_divider_2",
+                    "htmlClassNames": "u_content_divider"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_11",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "8px 40px 0px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_9",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#7b7b78",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Built with Unlayer Elements · #BuiltWithElements",
+                  "_meta": {
+                    "htmlID": "u_content_text_19",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "8px 0px 0px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#7b7b78",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "You’re receiving Aria Brief because you manage AI support for your workspace. <a href=\"https://app.cove.example/settings/notifications\" style=\"color:#626260;text-decoration:underline;\">Notification settings</a> · <a href=\"https://app.cove.example/unsubscribe\" style=\"color:#626260;text-decoration:underline;\">Unsubscribe</a>",
+                  "_meta": {
+                    "htmlID": "u_content_text_20",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "social",
+                "values": {
+                  "containerPadding": "16px 0px 0px",
+                  "icons": {
+                    "iconType": "circle",
+                    "icons": [
+                      {
+                        "name": "twitter",
+                        "url": "https://twitter.com/covehq"
+                      },
+                      {
+                        "name": "linkedin",
+                        "url": "https://www.linkedin.com/company/covehq"
+                      },
+                      {
+                        "name": "facebook",
+                        "url": "https://www.facebook.com/covehq"
+                      }
+                    ]
+                  },
+                  "align": "left",
+                  "iconSize": 28,
+                  "spacing": 8,
+                  "_meta": {
+                    "htmlID": "u_content_social_1",
+                    "htmlClassNames": "u_content_social"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_12",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "24px 40px 40px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_10",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      }
+    ],
+    "values": {
+      "_styleGuide": null,
+      "borderRadius": "10px",
+      "contentAlign": "center",
+      "contentVerticalAlign": "middle",
+      "contentWidth": "600px",
+      "fontFamily": {
+        "label": "Hanken Grotesk",
+        "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+      },
+      "textColor": "#111111",
+      "language": {},
+      "backgroundColor": "#f5f1ec",
+      "preheaderText": "Aria resolved 1,842 conversations for Northwind Commerce this week.",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#626260",
+        "linkHoverColor": "#111111",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": "no-repeat",
+        "size": "custom",
+        "position": "center"
+      },
+      "accessibilityTitle": "",
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 24
+}

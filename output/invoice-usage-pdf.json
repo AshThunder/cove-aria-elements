@@ -1,0 +1,908 @@
+{
+  "counters": {
+    "u_row": 6,
+    "u_column": 9,
+    "u_content_text": 10,
+    "u_content_heading": 2,
+    "u_content_html": 3,
+    "u_content_divider": 1
+  },
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "INVOICE",
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "4px 0px 0px",
+                  "headingType": "h1",
+                  "fontSize": "28px",
+                  "textAlign": "left",
+                  "lineHeight": "110%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 700,
+                  "text": "cove",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n              <div style=\"text-align:right;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n                <span style=\"display:inline-block;border:1px solid #111111;border-radius:9999px;padding:4px 12px;font-size:13px;margin-bottom:12px;\">Due</span>\n                <div style=\"font-size:13px;line-height:1.7;\">\n                  <span style=\"color:#626260;\">Invoice number</span>\n                  <span style=\"float:right;font-family:monospace;\">INV-2026-0142</span><br/>\n                  <span style=\"color:#626260;\">Issued</span>\n                  <span style=\"float:right;\">Jul 31, 2026</span><br/>\n                  <span style=\"color:#626260;\">Due</span>\n                  <span style=\"float:right;font-weight:700;\">Aug 14, 2026</span>\n                </div>\n              </div>\n            ",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "36px 40px 8px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "BILL TO",
+                  "_meta": {
+                    "htmlID": "u_content_text_2",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "8px 0px 0px",
+                  "fontSize": "15px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 700,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Northwind Commerce",
+                  "_meta": {
+                    "htmlID": "u_content_text_3",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "4px 0px 0px",
+                  "fontSize": "14px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "1402 Trade Way, Suite 400<br/>San Francisco, CA 94107<br/><span style='color:#626260'>billing@northwind.com</span>",
+                  "_meta": {
+                    "htmlID": "u_content_text_4",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "20px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "16px",
+              "_meta": {
+                "htmlID": "u_column_3",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "FROM",
+                  "_meta": {
+                    "htmlID": "u_content_text_5",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "8px 0px 0px",
+                  "fontSize": "15px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 700,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Cove, Inc.",
+                  "_meta": {
+                    "htmlID": "u_content_text_6",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "4px 0px 0px",
+                  "fontSize": "14px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "88 Colin P Kelly Jr St<br/>San Francisco, CA 94107<br/><span style='color:#626260'>finance@cove.com</span>",
+                  "_meta": {
+                    "htmlID": "u_content_text_7",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "20px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "16px",
+              "_meta": {
+                "htmlID": "u_column_4",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "28px 32px 8px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_2",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n    <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;table-layout:fixed;width:100%;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n      <colgroup><col style=\"width:46%;\" /><col style=\"width:14%;\" /><col style=\"width:20%;\" /><col style=\"width:20%;\" /></colgroup>\n      <thead><tr><td style=\"width:46%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Description</td><td style=\"width:14%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Qty</td><td style=\"width:20%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Rate</td><td style=\"width:20%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Amount</td></tr></thead>\n      <tbody><tr><td style=\"width:46%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Aria resolutions</td><td style=\"width:14%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">1,842</td><td style=\"width:20%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$0.20</td><td style=\"width:20%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$368.40</td></tr><tr><td style=\"width:46%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Aria seats&nbsp;(Enterprise)</td><td style=\"width:14%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">12</td><td style=\"width:20%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$85.00</td><td style=\"width:20%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$1,020.00</td></tr><tr><td style=\"width:46%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Knowledge sync&nbsp;add-on</td><td style=\"width:14%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">1</td><td style=\"width:20%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$31.60</td><td style=\"width:20%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$31.60</td></tr></tbody>\n    </table>\n  ",
+                  "_meta": {
+                    "htmlID": "u_content_html_2",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "20px 0px 0px",
+                  "fontSize": "14px",
+                  "textAlign": "right",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Total Due",
+                  "_meta": {
+                    "htmlID": "u_content_text_8",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "4px 0px 0px",
+                  "headingType": "h2",
+                  "fontSize": "24px",
+                  "textAlign": "right",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 700,
+                  "text": "$1,420.00",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_2",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "20px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "16px",
+              "_meta": {
+                "htmlID": "u_column_5",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "20px 40px 8px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_3",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n              <table role=\"presentation\" width=\"100%\" style=\"font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n                <tr>\n                  <td style=\"font-size:14px;color:#111111;\">Pay by ACH or credit card to settle this invoice.</td>\n                  <td align=\"right\">\n                    <a href=\"https://app.cove.example/billing/pay\" style=\"display:inline-block;background:#111111;color:#fff;text-decoration:none;padding:10px 18px;border-radius:8px;font-size:15px;font-weight:500;\">Pay invoice</a>\n                  </td>\n                </tr>\n              </table>\n            ",
+                  "_meta": {
+                    "htmlID": "u_content_html_3",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ebe7e1",
+              "padding": "20px 24px",
+              "border": {},
+              "borderRadius": "16px",
+              "_meta": {
+                "htmlID": "u_column_6",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "16px 40px 8px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_4",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "divider",
+                "values": {
+                  "containerPadding": "10px",
+                  "width": "100%",
+                  "border": {
+                    "borderTopWidth": "1px",
+                    "borderTopStyle": "solid",
+                    "borderTopColor": "#d3cec6"
+                  },
+                  "textAlign": "center",
+                  "_meta": {
+                    "htmlID": "u_content_divider_1",
+                    "htmlClassNames": "u_content_divider"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_7",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "16px 40px 0px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_5",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "12px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Questions? Contact <a href=\"mailto:finance@cove.com\" style=\"color:#626260;\">finance@cove.com</a>",
+                  "_meta": {
+                    "htmlID": "u_content_text_9",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_8",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "11px",
+                  "textAlign": "right",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "CONFIDENTIAL",
+                  "_meta": {
+                    "htmlID": "u_content_text_10",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_9",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "16px 40px 40px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_6",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1,
+            1
+          ]
+        }
+      }
+    ],
+    "values": {
+      "_styleGuide": null,
+      "borderRadius": "10px",
+      "contentAlign": "center",
+      "contentVerticalAlign": "middle",
+      "contentWidth": "720px",
+      "fontFamily": {
+        "label": "Hanken Grotesk",
+        "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+      },
+      "textColor": "#111111",
+      "language": {},
+      "backgroundColor": "#f5f1ec",
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": "no-repeat",
+        "size": "custom",
+        "position": "center"
+      },
+      "accessibilityTitle": "",
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 24
+}

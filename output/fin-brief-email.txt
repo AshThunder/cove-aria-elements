@@ -1,0 +1,68 @@
+cove
+
+Aria Brief · Jul 21 – Jul 27, 2026
+
+GOOD MORNING, MAYA.
+
+Northwind Commerce — here’s how Aria handled support this week, without the spreadsheet archaeology.
+
+This week at a glance
+
+Resolved by Aria
+
+1,842
+
+2,710 total conversations
+
+Resolution rate
+
+68%
+
+Fully closed without a handoff
+
+CSAT after Aria
+
+4.7
+
+Out of 5.0
+
+Avg. handle time
+
+42S
+
+Time to first resolution
+
+TOP INTENTS ARIA HANDLED
+
+Where customers needed help — and how volume moved week over week.
+
+Intent Volume Δ WoW
+
+Order status 612 +8%
+Refund eligibility 398 +3%
+Shipping delays 274 −5%
+Account access 191 +12%
+
+“Aria closed the refund loop before our agents even saw the queue — customers felt helped, not handed off.”
+
+Jordan Lee
+
+Head of Support, Northwind
+
+DIG INTO THE INBOX
+
+Review escalations, tune Aria’s answers, and share this brief with your team.
+
+Open Aria inbox (https://app.cove.example/inbox)
+
+Prefer the printable pack? Export the weekly resolution report from the same Elements tree.
+
+Built with Unlayer Elements · #BuiltWithElements
+
+You’re receiving Aria Brief because you manage AI support for your workspace. Notification settings (https://app.cove.example/settings/notifications) · Unsubscribe (https://app.cove.example/unsubscribe)
+
+(https://twitter.com/covehq)
+
+(https://www.linkedin.com/company/covehq)
+
+(https://www.facebook.com/covehq)

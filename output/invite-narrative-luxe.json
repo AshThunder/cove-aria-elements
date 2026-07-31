@@ -1,0 +1,425 @@
+{
+  "counters": {
+    "u_row": 1,
+    "u_column": 2,
+    "u_content_text": 5,
+    "u_content_heading": 1,
+    "u_content_image": 1,
+    "u_content_divider": 1,
+    "u_content_html": 1,
+    "u_content_button": 1
+  },
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "22px",
+                  "textAlign": "left",
+                  "lineHeight": "130%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 700,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "cove <span style=\"color:#ff5600\">·</span> <span style=\"color:#626260;font-size:12px;font-weight:500;letter-spacing:1px;\">INVITATION</span>",
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "28px 0px 0px",
+                  "headingType": "h1",
+                  "fontSize": "40px",
+                  "textAlign": "left",
+                  "lineHeight": "105%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "text": "A conversation",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "4px 0px 0px",
+                  "fontSize": "34px",
+                  "textAlign": "left",
+                  "lineHeight": "110%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontWeight": 300,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "<em>with Aria.</em>",
+                  "_meta": {
+                    "htmlID": "u_content_text_2",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "20px 0px 0px",
+                  "fontSize": "16px",
+                  "textAlign": "left",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Join us for an exclusive, intimate exploration of the next evolution in customer intelligence. Discover how silent signals become profound insights.",
+                  "_meta": {
+                    "htmlID": "u_content_text_3",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "28px 0px 0px",
+                  "fontSize": "11px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#ff5600",
+                  "fontWeight": 500,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "<span style=\"display:inline-block;border:1px solid rgba(255,86,0,0.35);background:#ffffff;border-radius:9999px;padding:6px 12px;\">✦ POWERED BY ARIA</span>",
+                  "_meta": {
+                    "htmlID": "u_content_text_4",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#f5f1ec",
+              "padding": "36px 28px 36px 32px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "containerPadding": "10px",
+                  "src": {
+                    "url": "assets/aria-integration.png",
+                    "width": 1600,
+                    "autoWidth": true,
+                    "maxWidth": "100%"
+                  },
+                  "textAlign": "center",
+                  "altText": "AI Integration: Data Synthesis",
+                  "action": {
+                    "name": "web",
+                    "values": {
+                      "href": "",
+                      "target": "_blank"
+                    }
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "4px 16px 0px",
+                  "fontSize": "10px",
+                  "textAlign": "center",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "AI Integration: Data Synthesis · Narrative Lens",
+                  "_meta": {
+                    "htmlID": "u_content_text_5",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "divider",
+                "values": {
+                  "containerPadding": "16px 0px 0px",
+                  "width": "100%",
+                  "border": {
+                    "borderTopWidth": "1px",
+                    "borderTopStyle": "solid",
+                    "borderTopColor": "#d3cec6"
+                  },
+                  "textAlign": "center",
+                  "_meta": {
+                    "htmlID": "u_content_divider_1",
+                    "htmlClassNames": "u_content_divider"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n              <div style=\"padding:20px 24px 0;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n                <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\">\n                  <tr>\n                    <td width=\"50%\" valign=\"top\" style=\"padding-bottom:14px;\">\n                      <div style=\"font-size:11px;color:#626260;letter-spacing:0.6px;\">DATE</div>\n                      <div style=\"font-size:13px;font-weight:500;color:#111111;margin-top:4px;\">October 24, 2024</div>\n                    </td>\n                    <td width=\"50%\" valign=\"top\" style=\"padding-bottom:14px;\">\n                      <div style=\"font-size:11px;color:#626260;letter-spacing:0.6px;\">TIME</div>\n                      <div style=\"font-size:13px;font-weight:500;color:#111111;margin-top:4px;\">18:00 — 21:00 PST</div>\n                    </td>\n                  </tr>\n                  <tr>\n                    <td colspan=\"2\" valign=\"top\" style=\"padding-bottom:18px;\">\n                      <div style=\"font-size:11px;color:#626260;letter-spacing:0.6px;\">LOCATION</div>\n                      <div style=\"font-size:13px;font-weight:500;color:#111111;margin-top:4px;line-height:1.4;\">The Archive Room,<br/>SF Museum of Modern Art</div>\n                    </td>\n                  </tr>\n                </table>\n              </div>\n            ",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "button",
+                "values": {
+                  "containerPadding": "0px 24px",
+                  "href": {
+                    "name": "web",
+                    "values": {
+                      "href": "https://app.cove.example/rsvp/aria-preview",
+                      "target": "_blank"
+                    }
+                  },
+                  "buttonColors": {
+                    "color": "#ffffff",
+                    "backgroundColor": "#111111",
+                    "hoverColor": "#FFFFFF",
+                    "hoverBackgroundColor": "#0879A1"
+                  },
+                  "size": {
+                    "autoWidth": false,
+                    "width": "100%"
+                  },
+                  "fontSize": "15px",
+                  "lineHeight": "120%",
+                  "textAlign": "center",
+                  "padding": "12px 20px",
+                  "border": {},
+                  "borderRadius": "8px",
+                  "text": "Confirm Attendance →",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "fontWeight": 500,
+                  "_meta": {
+                    "htmlID": "u_content_button_1",
+                    "htmlClassNames": "u_content_button"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "0px 0px 28px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "0px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1,
+            1
+          ]
+        }
+      }
+    ],
+    "values": {
+      "_styleGuide": null,
+      "borderRadius": "10px",
+      "contentAlign": "center",
+      "contentVerticalAlign": "middle",
+      "contentWidth": "640px",
+      "fontFamily": {
+        "label": "Hanken Grotesk",
+        "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+      },
+      "textColor": "#111111",
+      "language": {},
+      "backgroundColor": "#f5f1ec",
+      "preheaderText": "A conversation with Aria — confirm your attendance.",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": "no-repeat",
+        "size": "custom",
+        "position": "center"
+      },
+      "accessibilityTitle": "",
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 24
+}

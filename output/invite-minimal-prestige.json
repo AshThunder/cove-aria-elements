@@ -1,0 +1,271 @@
+{
+  "counters": {
+    "u_row": 1,
+    "u_column": 1,
+    "u_content_text": 2,
+    "u_content_heading": 1,
+    "u_content_button": 1,
+    "u_content_html": 1
+  },
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "28px",
+                  "textAlign": "center",
+                  "lineHeight": "110%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 700,
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "cove",
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "heading",
+                "values": {
+                  "containerPadding": "32px 0px 0px",
+                  "headingType": "h1",
+                  "fontSize": "36px",
+                  "textAlign": "center",
+                  "lineHeight": "115%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#111111",
+                  "fontWeight": 500,
+                  "text": "You're invited to the future of CX.",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "16px 12px 0px",
+                  "fontSize": "17px",
+                  "textAlign": "center",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Join us for an exclusive, early-access preview of Aria, our next-generation AI intelligence engine. Experience firsthand how autonomous agents are redefining customer relationships.",
+                  "_meta": {
+                    "htmlID": "u_content_text_2",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "button",
+                "values": {
+                  "containerPadding": "28px 0px 40px",
+                  "href": {
+                    "name": "web",
+                    "values": {
+                      "href": "https://app.cove.example/rsvp/aria-preview",
+                      "target": "_blank"
+                    }
+                  },
+                  "buttonColors": {
+                    "color": "#ffffff",
+                    "backgroundColor": "#ff5600",
+                    "hoverColor": "#FFFFFF",
+                    "hoverBackgroundColor": "#0879A1"
+                  },
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "fontSize": "15px",
+                  "lineHeight": "120%",
+                  "textAlign": "center",
+                  "padding": "12px 24px",
+                  "border": {},
+                  "borderRadius": "8px",
+                  "text": "Accept Invitation",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "fontWeight": 500,
+                  "_meta": {
+                    "htmlID": "u_content_button_1",
+                    "htmlClassNames": "u_content_button"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n              <div style=\"border-top:1px solid #ebe7e1;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n                <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\">\n                  <tr>\n                    <td width=\"33%\" align=\"center\" style=\"padding:24px 8px;font-size:13px;color:#626260;border-right:1px solid #ebe7e1;\">\n                      <div style=\"margin-bottom:6px;font-size:16px;\">▢</div>\n                      October 24, 2024\n                    </td>\n                    <td width=\"33%\" align=\"center\" style=\"padding:24px 8px;font-size:13px;color:#626260;border-right:1px solid #ebe7e1;\">\n                      <div style=\"margin-bottom:6px;font-size:16px;\">◷</div>\n                      6:00 PM PST\n                    </td>\n                    <td width=\"33%\" align=\"center\" style=\"padding:24px 8px;font-size:13px;color:#626260;\">\n                      <div style=\"margin-bottom:6px;font-size:16px;\">⌖</div>\n                      The Battery, SF\n                    </td>\n                  </tr>\n                </table>\n              </div>\n            ",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "40px 36px 0px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "16px",
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "32px 16px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      }
+    ],
+    "values": {
+      "_styleGuide": null,
+      "borderRadius": "10px",
+      "contentAlign": "center",
+      "contentVerticalAlign": "middle",
+      "contentWidth": "560px",
+      "fontFamily": {
+        "label": "Hanken Grotesk",
+        "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+      },
+      "textColor": "#111111",
+      "language": {},
+      "backgroundColor": "#f5f1ec",
+      "preheaderText": "You're invited to the future of CX — Aria early-access preview.",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": "no-repeat",
+        "size": "custom",
+        "position": "center"
+      },
+      "accessibilityTitle": "",
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 24
+}

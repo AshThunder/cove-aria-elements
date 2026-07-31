@@ -1,0 +1,369 @@
+{
+  "counters": {
+    "u_row": 3,
+    "u_column": 3,
+    "u_content_html": 3,
+    "u_content_text": 1,
+    "u_content_button": 1
+  },
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n              <div style=\"font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;padding:36px 36px 0;\">\n                <table role=\"presentation\" width=\"100%\">\n                  <tr>\n                    <td valign=\"top\">\n                      <div style=\"font-size:48px;font-weight:500;letter-spacing:-1.5px;line-height:1;\">cove</div>\n                      <div style=\"font-size:12px;color:#626260;letter-spacing:1px;margin-top:16px;\">INVOICE NO. 2049</div>\n                      <div style=\"font-size:40px;font-weight:500;letter-spacing:-0.8px;margin-top:8px;\">May 2024</div>\n                    </td>\n                    <td valign=\"top\" align=\"right\">\n                      <div style=\"font-size:12px;color:#626260;letter-spacing:1px;font-family:monospace;\">DUE DATE</div>\n                      <div style=\"font-size:18px;font-weight:500;margin-top:6px;\">June 15, 2024</div>\n                    </td>\n                  </tr>\n                </table>\n              </div>\n              <div style=\"margin:24px 36px;border-top:1px solid #d3cec6;border-bottom:1px solid #d3cec6;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n                <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\">\n                  <tr>\n                    <td width=\"50%\" valign=\"top\" style=\"padding:28px 24px 28px 0;border-right:1px solid #d3cec6;\">\n                      <div style=\"font-size:12px;color:#626260;letter-spacing:1px;font-family:monospace;\">BILLED TO</div>\n                      <div style=\"font-size:20px;font-weight:500;margin-top:10px;\">Northwind Commerce</div>\n                      <div style=\"font-size:14px;color:#626260;margin-top:6px;line-height:1.5;\">123 Market St. Suite 400<br/>San Francisco, CA 94105</div>\n                    </td>\n                    <td width=\"50%\" valign=\"top\" style=\"padding:28px 0 28px 24px;\">\n                      <div style=\"font-size:12px;color:#626260;letter-spacing:1px;font-family:monospace;\">WORKSPACE ID</div>\n                      <div style=\"font-size:14px;font-family:monospace;margin-top:10px;\">wrk_9824n8cnq9</div>\n                      <div style=\"font-size:14px;color:#626260;margin-top:6px;\">Enterprise Plan</div>\n                    </td>\n                  </tr>\n                </table>\n              </div>\n            ",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "0px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "16px",
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "32px 32px 8px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n    <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;table-layout:fixed;width:100%;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;\">\n      <colgroup><col style=\"width:46%;\" /><col style=\"width:12%;\" /><col style=\"width:21%;\" /><col style=\"width:21%;\" /></colgroup>\n      <thead><tr><td style=\"width:46%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Description</td><td style=\"width:12%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Qty</td><td style=\"width:21%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Unit Price</td><td style=\"width:21%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;color:#626260;background:#faf8f5;line-height:1.45;\">Amount</td></tr></thead>\n      <tbody><tr><td style=\"width:46%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Platform License&nbsp;(Enterprise)</td><td style=\"width:12%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">1</td><td style=\"width:21%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$999.00</td><td style=\"width:21%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$999.00</td></tr><tr><td style=\"width:46%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Additional AI Agents</td><td style=\"width:12%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">3</td><td style=\"width:21%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$49.00</td><td style=\"width:21%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$147.00</td></tr><tr><td style=\"width:46%;padding:12px 14px;border:1px solid #d3cec6;text-align:left;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">Premium Support SLA</td><td style=\"width:12%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">1</td><td style=\"width:21%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$274.00</td><td style=\"width:21%;padding:12px 14px;border:1px solid #d3cec6;text-align:right;vertical-align:middle;font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;color:#111111;background:#ffffff;line-height:1.45;\">$274.00</td></tr></tbody>\n    </table>\n  ",
+                  "_meta": {
+                    "htmlID": "u_content_html_2",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "html",
+                "values": {
+                  "containerPadding": "10px",
+                  "html": "\n              <div style=\"font-family:'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif;margin-top:24px;max-width:300px;margin-left:auto;\">\n                <div style=\"display:flex;justify-content:space-between;font-size:13px;font-family:monospace;margin-bottom:8px;\">\n                  <span style=\"color:#626260;letter-spacing:0.5px;\">SUBTOTAL</span><span>$1,420.00</span>\n                </div>\n                <div style=\"display:flex;justify-content:space-between;font-size:13px;font-family:monospace;margin-bottom:12px;\">\n                  <span style=\"color:#626260;letter-spacing:0.5px;\">TAX (0%)</span><span>$0.00</span>\n                </div>\n                <div style=\"display:flex;justify-content:space-between;align-items:baseline;border-top:1px solid #d3cec6;padding-top:12px;\">\n                  <span style=\"font-size:12px;color:#626260;letter-spacing:0.5px;font-family:monospace;font-weight:700;\">TOTAL DUE</span>\n                  <span style=\"font-size:32px;font-weight:500;letter-spacing:-0.5px;\">$1,420.00</span>\n                </div>\n              </div>\n            ",
+                  "_meta": {
+                    "htmlID": "u_content_html_3",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "8px 36px 28px",
+              "border": {
+                "borderTopWidth": "0px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "0px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "0px 32px 0px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_2",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "fontSize": "15px",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "color": "#626260",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "text": "Please remit payment by June 15, 2024.",
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "type": "button",
+                "values": {
+                  "containerPadding": "14px 0px 0px",
+                  "href": {
+                    "name": "web",
+                    "values": {
+                      "href": "https://app.cove.example/billing/pay",
+                      "target": "_blank"
+                    }
+                  },
+                  "buttonColors": {
+                    "color": "#ffffff",
+                    "backgroundColor": "#111111",
+                    "hoverColor": "#FFFFFF",
+                    "hoverBackgroundColor": "#0879A1"
+                  },
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "fontSize": "15px",
+                  "lineHeight": "120%",
+                  "textAlign": "left",
+                  "padding": "12px 20px",
+                  "border": {},
+                  "borderRadius": "8px",
+                  "text": "Pay Invoice Securely",
+                  "fontFamily": {
+                    "label": "Hanken Grotesk",
+                    "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+                  },
+                  "fontWeight": 500,
+                  "_meta": {
+                    "htmlID": "u_content_button_1",
+                    "htmlClassNames": "u_content_button"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ebe7e1",
+              "padding": "28px 36px",
+              "border": {
+                "borderTopWidth": "1px",
+                "borderTopStyle": "solid",
+                "borderTopColor": "#d3cec6",
+                "borderRightWidth": "1px",
+                "borderRightStyle": "solid",
+                "borderRightColor": "#d3cec6",
+                "borderBottomWidth": "1px",
+                "borderBottomStyle": "solid",
+                "borderBottomColor": "#d3cec6",
+                "borderLeftWidth": "1px",
+                "borderLeftStyle": "solid",
+                "borderLeftColor": "#d3cec6"
+              },
+              "borderRadius": "0px 0px 16px 16px",
+              "_meta": {
+                "htmlID": "u_column_3",
+                "htmlClassNames": "u_column"
+              },
+              "deletable": true,
+              "locked": false
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "_styleGuide": null,
+          "backgroundColor": "#f5f1ec",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "0px 32px 40px",
+          "anchor": "",
+          "noStackMobile": false,
+          "_meta": {
+            "htmlID": "u_row_3",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true,
+          "locked": false,
+          "cells": [
+            1
+          ]
+        }
+      }
+    ],
+    "values": {
+      "_styleGuide": null,
+      "borderRadius": "10px",
+      "contentAlign": "center",
+      "contentVerticalAlign": "middle",
+      "contentWidth": "720px",
+      "fontFamily": {
+        "label": "Hanken Grotesk",
+        "value": "'Hanken Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+      },
+      "textColor": "#111111",
+      "language": {},
+      "backgroundColor": "#f5f1ec",
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": "no-repeat",
+        "size": "custom",
+        "position": "center"
+      },
+      "accessibilityTitle": "",
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 24
+}
