@@ -96,9 +96,9 @@ Narrative invite uses the bundled illustration at `src/assets/media/aria-integra
 - [x] Complete source code in this repository
 - [x] README with project explanation, how to run, and screenshots of rendered templates
 - [x] Publish as a **public** GitHub repository ([AshThunder/cove-aria-elements](https://github.com/AshThunder/cove-aria-elements))
-- [ ] Support / star [unlayer/elements](https://github.com/unlayer/elements)
-- [ ] Submit via the [official form](https://forms.gle/ayAPGWPWiJDtVCTr7)
-- [ ] Share publicly with `#BuiltWithElements`
+- [x] Support / star [unlayer/elements](https://github.com/unlayer/elements)
+- [x] Submit via the [official form](https://forms.gle/ayAPGWPWiJDtVCTr7)
+- [x] Share publicly with `#BuiltWithElements`
 
 ## Links
 
